@@ -18,7 +18,7 @@ Backend / server is using Node js with Express
 
 ## 2. Run web：
     1. Open up cmd / terminal
-    2. Move to ./client
+    2. Move to ./client-web
     3. Run command: **npm install**
     4. Run command: **npm run serve**
 
@@ -26,6 +26,7 @@ Backend / server is using Node js with Express
 * Chat history will be saved locally as json file
 * If you cannot enter chat room correctly, please restart the server
 
+  
 
 # 1対1のチャットツールです。
 
@@ -46,7 +47,7 @@ Backend / server is using Node js with Express
 
 ## 2. Webの起動：
     1. cmdやterminalを起動
-    2. ./clientに移動
+    2. ./client-webに移動
     3. npm installを実行
     4. npm run serveを実行
 
