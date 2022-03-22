@@ -1,8 +1,8 @@
 # 1 to 1 chat application。
 
 Front end was made using Vue CLI
-Backend / server is using Node js with Express  
-バックエンド・サーバーはNode.jsとExpressを使用しています。
+Backend / server is using Node js with Express
+This project is  using [Socket.io](https://socket.io/) library for sending chat messages
 
 ## Prerequisites:
 - Node.js
@@ -13,14 +13,14 @@ Backend / server is using Node js with Express
 ## 1. Run server：
     1. Open up cmd / terminal
     2. Move to ./server
-    3. Run command: **npm install**
-    4. Run command: **npm run start**
+    3. Run command: npm install
+    4. Run command: npm run start
 
 ## 2. Run web：
     1. Open up cmd / terminal
     2. Move to ./client-web
-    3. Run command: **npm install**
-    4. Run command: **npm run serve**
+    3. Run command: npm install
+    4. Run command: npm run serve
 
 ## Note：
 * Chat history will be saved locally as json file
